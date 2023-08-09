@@ -4,7 +4,7 @@ import webbrowser
 
 # Defina o URL do site que você deseja abrir
 site_url = "https://tmi.intermaritima.com.br/"
-
+ 
 # Imagem ASCII
 ascii_art = '''
                  :############################################!.      

@@ -1,5 +1,5 @@
 ﻿import serial
-
+ 
 def ler_porta_serial(porta, velocidade, databits, parity, stopbits, flowcontrol):
     ser = serial.Serial(
         port=porta,
